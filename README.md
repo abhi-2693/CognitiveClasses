@@ -5,5 +5,5 @@ Course 1 - Python for Data Science and AI
    Week1 - Completed
    Week2 - Completed
    Week3 - Completed
-   Week4 - Work in Progress 1 hr left
+   Week4 - Completed
    Week5 - Yet to start : 2 hrs left
